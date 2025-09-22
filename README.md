@@ -14,10 +14,12 @@ Cómo funciona?
 
 Si intentás agregar un campo vacío, salta un mensaje:  
 "Por favor, inserte un nombre"  
+
 <img width="438" height="127" alt="image" src="https://github.com/user-attachments/assets/b89c3262-1288-4eeb-96ee-b422a2460a64" />
 
 Y si intentás sortear sin haber agregado nadie, salta:  
 "No hay amigos para sortear."
+
 <img width="435" height="137" alt="image" src="https://github.com/user-attachments/assets/3b1e749d-ea95-487b-b9c4-ba9ec99743ff" />
 
 Tecnologías usadas
@@ -25,5 +27,6 @@ Tecnologías usadas
 - HTML: para la estructura.  
 - CSS: para que quede bonito y prolijo.  
 - JavaScript: la lógica de agregar amigos, mostrar la lista y sortear.
-- <img width="643" height="116" alt="image" src="https://github.com/user-attachments/assets/1d6e6e2b-45e3-4bc5-96d4-a4cf464398d8" />
+  
+ <img width="643" height="116" alt="image" src="https://github.com/user-attachments/assets/1d6e6e2b-45e3-4bc5-96d4-a4cf464398d8" />
 
